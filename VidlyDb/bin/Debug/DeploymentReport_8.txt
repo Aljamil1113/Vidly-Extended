@@ -1,0 +1,25 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Rename
+       [dbo].[MovieGenre] (View)
+     Alter
+       [dbo].[MovieGenre] (View)
+       [dbo].[spShowMovies] (Procedure)
+     Create
+       [dbo].[CustomerMembershipType] (View)
+       [dbo].[RentalCustomer] (View)
+       [dbo].[spShowCustomers] (Procedure)
+       [dbo].[spShowCustomersWithName] (Procedure)
+       [dbo].[spShowMoviesWithName] (Procedure)
+       [dbo].[spShowRentals] (Procedure)
+
+** Supporting actions

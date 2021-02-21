@@ -1,0 +1,70 @@
+﻿@model Vidly.ViewModels.MovieFormViewModel
+@{
+    ViewBag.Title = "New";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@ViewBag.MoviePage</h2>
+
+@using (Html.BeginForm("Save", "Movies"))
+{
+    @Html.ValidationSummary(true, "Please fix the errors.")
+    <div class="form-group">
+        @Html.LabelFor(m => m.Movie.Name)
+        @Html.TextBoxFor(m => m.Movie.Name, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Movie.Name)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Movie.ReleaseDate)
+        @Html.TextBoxFor(m => m.Movie.ReleaseDate, new { @class = "form-control date-picker" })
+        @Html.ValidationMessageFor(m => m.Movie.ReleaseDate)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Movie.DateAdded)
+        @Html.TextBoxFor(m => m.Movie.DateAdded, new { @class = "form-control date-picker" })
+        @Html.ValidationMessageFor(m => m.Movie.DateAdded)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Movie.GenreId)
+        @Html.DropDownListFor(m => m.Movie.GenreId, new SelectList(Model.Genres, "Id", "Name"), "Select Genre Type", new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Movie.GenreId)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Movie.NumberInStock)
+        @Html.TextBoxFor(m => m.Movie.NumberInStock, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Movie.NumberInStock)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Movie.NumberAvailable)
+        @Html.TextBoxFor(m => m.Movie.NumberAvailable, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Movie.NumberAvailable)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Movie.Amount)
+        @Html.TextBoxFor(m => m.Movie.Amount, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Movie.Amount)
+    </div>
+
+
+    @Html.HiddenFor(m => m.Movie.Id)
+    @Html.AntiForgeryToken();
+
+
+    <button type="submit" class="btn btn-primary">Save</button>
+}
+
+
+@section scripts
+{
+    @Scripts.Render("~/bundles/jqueryval")
+
+
+    <script>
+        $(function () {
+            // This will make every element with the class "date-picker" into a DatePicker element
+            $('.date-picker').datepicker();
+        })
+    </script>
+
+}

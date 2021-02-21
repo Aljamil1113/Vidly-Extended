@@ -1,0 +1,32 @@
+﻿@using Vidly.Models
+
+<nav class="navbar navbar-expand-lg">
+    <div class="container">
+        <div class="navbar-header">
+            @Html.ActionLink("Vidly", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+        </div>
+        <div class="collapse navbar-collapse" id="navbarColor01">
+            <ul class="navbar-nav mr-auto">
+           @if (User.IsInRole(RoleName.SuperAdmin) || User.IsInRole(RoleName.CanManageMovies))
+            {
+                <li>@Html.ActionLink("Rentals", "Index", "Rentals", null, new { @class = "nav-link" })</li>
+                <li>@Html.ActionLink("Customers", "Index", "Customers", null, new { @class = "nav-link" })</li>
+                <li>@Html.ActionLink("Movies", "Index", "Movies", null, new { @class = "nav-link" })</li>
+            }
+
+
+
+
+            @if (User.IsInRole(RoleName.SuperAdmin))
+            {
+                <li>@Html.ActionLink("Users", "Index", "Users", null, new { @class = "nav-link" })</li>
+            }
+
+            </ul>
+            @Html.Partial("_LoginPartial")
+        </div>
+    </div>
+</nav>

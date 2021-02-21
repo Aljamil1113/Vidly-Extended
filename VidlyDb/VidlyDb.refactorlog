@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="157bbbe2-f84c-4334-9cb9-69a0657aaa28" ChangeDateTime="02/21/2021 08:43:57">
+    <Property Name="ElementName" Value="[dbo].[viewMovieGenre]" />
+    <Property Name="ElementType" Value="SqlView" />
+    <Property Name="ParentElementName" Value="[dbo]" />
+    <Property Name="ParentElementType" Value="SqlSchema" />
+    <Property Name="NewName" Value="[MovieGenre]" />
+  </Operation>
+</Operations>

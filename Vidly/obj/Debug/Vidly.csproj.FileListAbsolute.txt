@@ -1,0 +1,453 @@
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Vidly.dll.config
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Vidly.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Vidly.pdb
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\csc.exe
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\csc.exe.config
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\csc.rsp
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\csi.exe
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\csi.exe.config
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\csi.rsp
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\Microsoft.Managed.Core.targets
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\System.AppContext.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\System.Collections.Immutable.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\System.Console.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\System.Globalization.Calendars.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\System.IO.Compression.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\System.IO.FileSystem.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\System.Net.Http.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\System.Net.Sockets.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\System.ValueTuple.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\System.Xml.XmlDocument.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\System.Xml.XPath.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\vbc.exe
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\vbc.exe.config
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\vbc.rsp
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\VBCSCompiler.exe
+D:\IRely Training\ASP.NET MVC\Vidly\bin\roslyn\VBCSCompiler.exe.config
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Antlr3.Runtime.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\EntityFramework.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\EntityFramework.SqlServer.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Microsoft.Owin.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Microsoft.Owin.Security.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Microsoft.Owin.Security.Google.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Microsoft.Web.Infrastructure.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Newtonsoft.Json.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Owin.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\System.Web.Helpers.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\System.Web.Mvc.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\System.Web.Optimization.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\System.Web.Razor.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\System.Web.WebPages.Deployment.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\System.Web.WebPages.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\System.Web.WebPages.Razor.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\WebGrease.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\System.Web.Helpers.xml
+D:\IRely Training\ASP.NET MVC\Vidly\bin\System.Web.Mvc.xml
+D:\IRely Training\ASP.NET MVC\Vidly\bin\System.Web.Optimization.xml
+D:\IRely Training\ASP.NET MVC\Vidly\bin\System.Web.Razor.xml
+D:\IRely Training\ASP.NET MVC\Vidly\bin\System.Web.WebPages.xml
+D:\IRely Training\ASP.NET MVC\Vidly\bin\System.Web.WebPages.Deployment.xml
+D:\IRely Training\ASP.NET MVC\Vidly\bin\System.Web.WebPages.Razor.xml
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Newtonsoft.Json.xml
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Antlr3.Runtime.pdb
+D:\IRely Training\ASP.NET MVC\Vidly\bin\EntityFramework.xml
+D:\IRely Training\ASP.NET MVC\Vidly\bin\EntityFramework.SqlServer.xml
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Microsoft.Owin.xml
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Microsoft.Owin.Security.xml
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Microsoft.Owin.Security.Google.xml
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IRely Training\ASP.NET MVC\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+D:\IRely Training\ASP.NET MVC\Vidly\obj\Debug\Vidly.csproj.CopyComplete
+D:\IRely Training\ASP.NET MVC\Vidly\obj\Debug\Vidly.dll
+D:\IRely Training\ASP.NET MVC\Vidly\obj\Debug\Vidly.pdb
+D:\IRely Training\ASP.NET MVC\Vidly\obj\Debug\Vidly.Migrations.Initial.resources
+D:\IRely Training\ASP.NET MVC\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+D:\IRely Training\ASP.NET MVC\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
+D:\IRely Training\ASP.NET MVC\Vidly\obj\Debug\Vidly.Migrations.AddMembershiptType.resources
+D:\IRely Training\ASP.NET MVC\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+D:\IRely Training\ASP.NET MVC\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomer.resources
+D:\IRely Training\ASP.NET MVC\Vidly\obj\Debug\Vidly.Migrations.AddNametoMembershipType.resources
+D:\IRely Training\ASP.NET MVC\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipName.resources
+D:\IRely Training\ASP.NET MVC\Vidly\obj\Debug\Vidly.Migrations.AddBirthDateToCustomer.resources
+D:\IRely Training\ASP.NET MVC\Vidly\obj\Debug\Vidly.Migrations.UpdateMovieWithGenre.resources
+D:\IRely Training\ASP.NET MVC\Vidly\obj\Debug\Vidly.Migrations.Populategenre.resources
+D:\IRely Training\ASP.NET MVC\Vidly\obj\Debug\Vidly.Migrations.UpdateMovieEntityDataAnotation.resources
+D:\IRely Training\ASP.NET MVC\Vidly\bin\System.Net.Http.Formatting.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\System.Web.Http.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\System.Web.Http.WebHost.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\System.Net.Http.Formatting.xml
+D:\IRely Training\ASP.NET MVC\Vidly\bin\System.Web.Http.xml
+D:\IRely Training\ASP.NET MVC\Vidly\bin\System.Web.Http.WebHost.xml
+D:\IRely Training\ASP.NET MVC\Vidly\bin\AutoMapper.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\AutoMapper.xml
+D:\IRely Training\ASP.NET MVC\Vidly\obj\Debug\Vidly.Migrations.SeedUsers.resources
+D:\IRely Training\ASP.NET MVC\Vidly\obj\Debug\Vidly.Migrations.AddDrivingLicenseToApplicationUser.resources
+D:\IRely Training\ASP.NET MVC\Vidly\obj\Debug\Vidly.Migrations.AddMobileNumberToUser.resources
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Glimpse.Ado.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Glimpse.AspNet.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Glimpse.Core.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Glimpse.EF6.dll
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Glimpse.Mvc5.dll
+D:\IRely Training\ASP.NET MVC\Vidly\obj\Debug\Vidly.Migrations.Addrental.resources
+D:\IRely Training\ASP.NET MVC\Vidly\obj\Debug\Vidly.Migrations.AddNumberAvailableToMovie.resources
+D:\IRely Training\ASP.NET MVC\Vidly\bin\Elmah.dll
+D:\IRely Training\ASP.NET MVC\Vidly\obj\Debug\Vidly.Migrations.AddRentLimitAndIsDelinquentToCustomer.resources
+D:\IRely Training\ASP.NET MVC\Vidly\obj\Debug\Vidly.Migrations.SeedUpdatedUsers.resources
+D:\IRely Training\ASP.NET MVC\Vidly\obj\Debug\Vidly.Migrations.AddTotalAmountAmountDiscountRate.resources
+D:\IRely Training\ASP.NET MVC\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
+D:\IRely Training\ASP.NET MVC\Vidly\obj\Debug\Vidly.Migrations.AddTotalAmountAmountDiscountRate1.resources
+D:\IRely Training\ASP.NET MVC\Vidly\obj\Debug\Vidly.Migrations.UpdateCustomerRate.resources
+D:\IRely Training\ASP.NET MVC\Vidly\obj\Debug\Vidly.Migrations.updateMovieAmountType.resources
+D:\IRely Training\ASP.NET MVC\Vidly\obj\Debug\Vidly.Migrations.UpdateAmountTypeMovieToDecimal.resources
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Vidly.dll.config
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Vidly.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Vidly.pdb
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\csc.exe
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\csc.exe.config
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\csc.rsp
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\csi.exe
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\csi.exe.config
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\csi.rsp
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\Microsoft.Managed.Core.targets
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\System.AppContext.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\System.Collections.Immutable.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\System.Console.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\System.Globalization.Calendars.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\System.IO.Compression.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\System.IO.FileSystem.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\System.Net.Http.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\System.Net.Sockets.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\System.ValueTuple.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\System.Xml.XmlDocument.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\System.Xml.XPath.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\vbc.exe
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\vbc.exe.config
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\vbc.rsp
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\VBCSCompiler.exe
+D:\iRely Training\SQL Training\Projects\Vidly\bin\roslyn\VBCSCompiler.exe.config
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Antlr3.Runtime.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\AutoMapper.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Elmah.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\EntityFramework.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\EntityFramework.SqlServer.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Glimpse.Ado.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Glimpse.AspNet.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Glimpse.Core.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Glimpse.EF6.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Glimpse.Mvc5.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Microsoft.Owin.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Microsoft.Owin.Security.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Microsoft.Owin.Security.Google.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Microsoft.Web.Infrastructure.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Newtonsoft.Json.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Owin.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\System.Net.Http.Formatting.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\System.Web.Helpers.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\System.Web.Http.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\System.Web.Http.WebHost.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\System.Web.Mvc.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\System.Web.Optimization.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\System.Web.Razor.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\System.Web.WebPages.Deployment.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\System.Web.WebPages.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\System.Web.WebPages.Razor.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\WebGrease.dll
+D:\iRely Training\SQL Training\Projects\Vidly\bin\AutoMapper.xml
+D:\iRely Training\SQL Training\Projects\Vidly\bin\System.Net.Http.Formatting.xml
+D:\iRely Training\SQL Training\Projects\Vidly\bin\System.Web.Http.xml
+D:\iRely Training\SQL Training\Projects\Vidly\bin\System.Web.Http.WebHost.xml
+D:\iRely Training\SQL Training\Projects\Vidly\bin\System.Web.Helpers.xml
+D:\iRely Training\SQL Training\Projects\Vidly\bin\System.Web.Mvc.xml
+D:\iRely Training\SQL Training\Projects\Vidly\bin\System.Web.Optimization.xml
+D:\iRely Training\SQL Training\Projects\Vidly\bin\System.Web.Razor.xml
+D:\iRely Training\SQL Training\Projects\Vidly\bin\System.Web.WebPages.xml
+D:\iRely Training\SQL Training\Projects\Vidly\bin\System.Web.WebPages.Deployment.xml
+D:\iRely Training\SQL Training\Projects\Vidly\bin\System.Web.WebPages.Razor.xml
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Newtonsoft.Json.xml
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Antlr3.Runtime.pdb
+D:\iRely Training\SQL Training\Projects\Vidly\bin\EntityFramework.xml
+D:\iRely Training\SQL Training\Projects\Vidly\bin\EntityFramework.SqlServer.xml
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Microsoft.Owin.xml
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Microsoft.Owin.Security.xml
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Microsoft.Owin.Security.Google.xml
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+D:\iRely Training\SQL Training\Projects\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\iRely Training\SQL Training\Projects\Vidly\obj\Debug\Vidly.Migrations.Initial.resources
+D:\iRely Training\SQL Training\Projects\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
+D:\iRely Training\SQL Training\Projects\Vidly\obj\Debug\Vidly.Migrations.AddMembershiptType.resources
+D:\iRely Training\SQL Training\Projects\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+D:\iRely Training\SQL Training\Projects\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomer.resources
+D:\iRely Training\SQL Training\Projects\Vidly\obj\Debug\Vidly.Migrations.AddNametoMembershipType.resources
+D:\iRely Training\SQL Training\Projects\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipName.resources
+D:\iRely Training\SQL Training\Projects\Vidly\obj\Debug\Vidly.Migrations.AddBirthDateToCustomer.resources
+D:\iRely Training\SQL Training\Projects\Vidly\obj\Debug\Vidly.Migrations.UpdateMovieWithGenre.resources
+D:\iRely Training\SQL Training\Projects\Vidly\obj\Debug\Vidly.Migrations.Populategenre.resources
+D:\iRely Training\SQL Training\Projects\Vidly\obj\Debug\Vidly.Migrations.UpdateMovieEntityDataAnotation.resources
+D:\iRely Training\SQL Training\Projects\Vidly\obj\Debug\Vidly.Migrations.SeedUsers.resources
+D:\iRely Training\SQL Training\Projects\Vidly\obj\Debug\Vidly.Migrations.AddDrivingLicenseToApplicationUser.resources
+D:\iRely Training\SQL Training\Projects\Vidly\obj\Debug\Vidly.Migrations.AddMobileNumberToUser.resources
+D:\iRely Training\SQL Training\Projects\Vidly\obj\Debug\Vidly.Migrations.Addrental.resources
+D:\iRely Training\SQL Training\Projects\Vidly\obj\Debug\Vidly.Migrations.AddNumberAvailableToMovie.resources
+D:\iRely Training\SQL Training\Projects\Vidly\obj\Debug\Vidly.Migrations.AddRentLimitAndIsDelinquentToCustomer.resources
+D:\iRely Training\SQL Training\Projects\Vidly\obj\Debug\Vidly.Migrations.SeedUpdatedUsers.resources
+D:\iRely Training\SQL Training\Projects\Vidly\obj\Debug\Vidly.Migrations.AddTotalAmountAmountDiscountRate.resources
+D:\iRely Training\SQL Training\Projects\Vidly\obj\Debug\Vidly.Migrations.AddTotalAmountAmountDiscountRate1.resources
+D:\iRely Training\SQL Training\Projects\Vidly\obj\Debug\Vidly.Migrations.UpdateCustomerRate.resources
+D:\iRely Training\SQL Training\Projects\Vidly\obj\Debug\Vidly.Migrations.updateMovieAmountType.resources
+D:\iRely Training\SQL Training\Projects\Vidly\obj\Debug\Vidly.Migrations.UpdateAmountTypeMovieToDecimal.resources
+D:\iRely Training\SQL Training\Projects\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+D:\iRely Training\SQL Training\Projects\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+D:\iRely Training\SQL Training\Projects\Vidly\obj\Debug\Vidly.csproj.CopyComplete
+D:\iRely Training\SQL Training\Projects\Vidly\obj\Debug\Vidly.dll
+D:\iRely Training\SQL Training\Projects\Vidly\obj\Debug\Vidly.pdb
+D:\iRely Training\SQL Training\Projects\Vidly\obj\Debug\Vidly.Migrations.UpdateIds.resources
+D:\iRely Training\SQL Training\Projects\Vidly\obj\Debug\Vidly.Migrations.AddRentalMovie.resources
+D:\iRely Training\SQL Training\Projects\Vidly\obj\Debug\Vidly.Migrations.UpdateRentalMovie.resources
+D:\iRely Training\SQL Training\Projects\Vidly\obj\Debug\Vidly.Migrations.updateRental.resources
+D:\iRely Training\SQL Training\Projects\Vidly\obj\Debug\Vidly.Migrations.UpdateRentalMovieRelation.resources
+D:\iRely Training\SQL Training\Projects\Vidly\obj\Debug\Vidly.Migrations.BackRentalMovie.resources
+D:\iRely Training\SQL Training\Projects\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Vidly.dll.config
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Vidly.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Vidly.pdb
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\csc.exe
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\csc.exe.config
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\csc.rsp
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\csi.exe
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\csi.exe.config
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\csi.rsp
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\Microsoft.Managed.Core.targets
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\System.AppContext.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\System.Collections.Immutable.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\System.Console.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\System.Globalization.Calendars.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\System.IO.Compression.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\System.IO.FileSystem.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\System.Net.Http.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\System.Net.Sockets.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\System.ValueTuple.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\System.Xml.XmlDocument.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\System.Xml.XPath.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\vbc.exe
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\vbc.exe.config
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\vbc.rsp
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\VBCSCompiler.exe
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\roslyn\VBCSCompiler.exe.config
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Antlr3.Runtime.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\AutoMapper.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Elmah.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\EntityFramework.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\EntityFramework.SqlServer.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Glimpse.Ado.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Glimpse.AspNet.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Glimpse.Core.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Glimpse.EF6.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Glimpse.Mvc5.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Microsoft.Owin.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Microsoft.Owin.Security.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Microsoft.Owin.Security.Google.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Microsoft.Web.Infrastructure.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Newtonsoft.Json.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Owin.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\System.Net.Http.Formatting.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\System.Web.Helpers.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\System.Web.Http.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\System.Web.Http.WebHost.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\System.Web.Mvc.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\System.Web.Optimization.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\System.Web.Razor.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\System.Web.WebPages.Deployment.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\System.Web.WebPages.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\System.Web.WebPages.Razor.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\WebGrease.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\AutoMapper.xml
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\System.Net.Http.Formatting.xml
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\System.Web.Http.xml
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\System.Web.Http.WebHost.xml
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\System.Web.Helpers.xml
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\System.Web.Mvc.xml
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\System.Web.Optimization.xml
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\System.Web.Razor.xml
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\System.Web.WebPages.xml
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\System.Web.WebPages.Deployment.xml
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\System.Web.WebPages.Razor.xml
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Newtonsoft.Json.xml
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Antlr3.Runtime.pdb
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\EntityFramework.xml
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\EntityFramework.SqlServer.xml
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Microsoft.Owin.xml
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Microsoft.Owin.Security.xml
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Microsoft.Owin.Security.Google.xml
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\obj\Debug\Vidly.Migrations.Initial.resources
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\obj\Debug\Vidly.Migrations.AddMembershiptType.resources
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomer.resources
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\obj\Debug\Vidly.Migrations.AddNametoMembershipType.resources
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipName.resources
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\obj\Debug\Vidly.Migrations.AddBirthDateToCustomer.resources
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\obj\Debug\Vidly.Migrations.UpdateMovieWithGenre.resources
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\obj\Debug\Vidly.Migrations.Populategenre.resources
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\obj\Debug\Vidly.Migrations.UpdateMovieEntityDataAnotation.resources
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\obj\Debug\Vidly.Migrations.SeedUsers.resources
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\obj\Debug\Vidly.Migrations.AddDrivingLicenseToApplicationUser.resources
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\obj\Debug\Vidly.Migrations.AddMobileNumberToUser.resources
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\obj\Debug\Vidly.Migrations.Addrental.resources
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\obj\Debug\Vidly.Migrations.AddNumberAvailableToMovie.resources
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\obj\Debug\Vidly.Migrations.AddRentLimitAndIsDelinquentToCustomer.resources
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\obj\Debug\Vidly.Migrations.SeedUpdatedUsers.resources
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\obj\Debug\Vidly.Migrations.AddTotalAmountAmountDiscountRate.resources
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\obj\Debug\Vidly.Migrations.AddTotalAmountAmountDiscountRate1.resources
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\obj\Debug\Vidly.Migrations.UpdateCustomerRate.resources
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\obj\Debug\Vidly.Migrations.updateMovieAmountType.resources
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\obj\Debug\Vidly.Migrations.UpdateAmountTypeMovieToDecimal.resources
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\obj\Debug\Vidly.Migrations.UpdateIds.resources
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\obj\Debug\Vidly.Migrations.AddRentalMovie.resources
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\obj\Debug\Vidly.Migrations.UpdateRentalMovie.resources
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\obj\Debug\Vidly.Migrations.updateRental.resources
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\obj\Debug\Vidly.Migrations.UpdateRentalMovieRelation.resources
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\obj\Debug\Vidly.Migrations.BackRentalMovie.resources
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\obj\Debug\Vidly.csproj.CopyComplete
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\obj\Debug\Vidly.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\obj\Debug\Vidly.pdb
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\System.Web.Cors.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\System.Web.Http.Cors.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\bin\System.Web.Http.Cors.xml
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache

@@ -1,0 +1,157 @@
+﻿@model Vidly.ViewModels.RentalMovieViewModel
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Rental Details</h2>
+
+<div class="row">
+    <div class="col-sm-3">
+        @Html.HiddenFor(m => m.Rental.Id)
+        @Html.AntiForgeryToken()
+        <div class="form-group">
+            @Html.LabelFor(m => m.Rental.Customer.Name)
+            @Html.TextBoxFor(m => m.Rental.Customer.Name, new { @class = "form-control", disabled = "disabled" })
+        </div>
+    </div>
+    <div class="col-sm-3">
+        <div class="form-group">
+            @Html.LabelFor(m => m.Rental.Customer.DiscountRate)
+            @Html.TextBoxFor(m => m.Rental.Customer.DiscountRate, new { @class = "form-control", disabled = "disabled" })
+        </div>
+    </div>
+    <div class="col-sm-3">
+        <div class="form-group">
+            @Html.LabelFor(m => m.Rental.Price)
+            @Html.TextBoxFor(m => m.Rental.Price, new { @class = "form-control", disabled = "disabled" })
+        </div>
+    </div>
+    <div class="col-sm-3">
+        <div class="form-group">
+            @Html.LabelFor(m => m.Rental.DateRented)
+            @Html.TextBoxFor(m => m.Rental.DateRented, new { @class = "form-control", disabled = "disabled" })
+        </div>
+    </div>
+    
+        <table class="table" id="tblRentalMovies">
+            <thead>
+                <tr>
+                    <th></th>
+                    <th>Movie Name</th>
+                    <th>Price</th>
+                    <th>Genre </th>
+                    <th>Date Returned</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (var rm in Model.RentalMovies)
+                {
+                <tr>
+                    <td>
+                        @Html.HiddenFor(m => rm.RentalId, new { @class = "RentalId" })
+                        @Html.HiddenFor(m => rm.MovieId, new { @class = "MovieId" })
+                    </td>                
+                    <td>@rm.Movie.Name</td>
+                    <td>@rm.Movie.Amount</td>
+                    <td>@rm.Movie.Genre.Name</td>
+                    <td class="DateReturned">
+                        <div class="form-group">
+                            <span>@rm.DateReturned</span>
+                            @Html.TextBoxFor(m => rm.DateReturned, new { @class = "form-control date-picker", @style = "display:none" })
+                            @Html.ValidationMessageFor(m => rm.DateReturned)
+                        </div>
+                    </td>
+                    <td>
+                        <a class="btn btn-primary Edit" href="javascript:;">Edit</a>
+                        <a class="btn btn-secondary Update" href="javascript:;" style="display:none">Update</a>
+                        <a class="btn btn-danger Cancel" href="javascript:;" style="display:none">Cancel</a>
+                    </td>
+                </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+   
+
+@section Scripts
+{
+    <script>
+        $(function () {
+            // This will make every element with the class "date-picker" into a DatePicker element
+            $('.date-picker').each(function () {
+                $(this).removeClass('hasDatepicker').datepicker();
+            });
+        })
+    </script>
+
+    <script type="text/javascript">
+        
+
+        //Edit event handler.
+        $("body").on("click", "#tblRentalMovies .Edit", function () {
+            var row = $(this).closest("tr");
+            $("td", row).each(function () {
+                if ($(this).find("input").length > 0) {
+                    $(this).find("input").show();
+                    $(this).find("span").hide();
+                }
+            });
+            row.find(".Update").show();
+            row.find(".Cancel").show();
+            $(this).hide();
+        });
+
+        //Cancel event handler.
+        $("body").on("click", "#tblRentalMovies .Cancel", function () {
+            var row = $(this).closest("tr");
+            $("td", row).each(function () {
+                if ($(this).find("input").length > 0) {
+                    var span = $(this).find("span");
+                    var input = $(this).find("input");
+                    input.val(span.html());
+                    span.show();
+                    input.hide();
+                }
+            });
+            row.find(".Edit").show();
+            row.find(".Update").hide();
+            $(this).hide();
+        });
+
+
+        //Update event handler.
+        $("body").on("click", "#tblRentalMovies .Update", function () {
+            var row = $(this).closest("tr");
+            $("td", row).each(function () {
+                if ($(this).find("input").length > 0) {
+                    var span = $(this).find("span");
+                    var input = $(this).find("input");
+                    span.html(input.val());
+                    span.show();
+                    input.hide();
+                }
+            });
+            row.find(".Edit").show();
+            row.find(".Cancel").hide();
+            $(this).hide();
+
+            var rmRentalMovie = {};
+            rmRentalMovie.RentalId = row.find(".RentalId").val();
+            rmRentalMovie.MovieId = row.find(".MovieId").val();
+            rmRentalMovie.DateReturned = row.find(".DateReturned").find("span").html();
+            $.ajax({
+                type: "POST",
+                url: "/Rentals/UpdateRentalMovie",
+                data: '{rentalMovie:' + JSON.stringify(rmRentalMovie) + '}',
+                contentType: "application/json; charset=utf-8",
+                dataType: "json"
+            });
+        });
+    </script>
+}
+
+
+

@@ -1,0 +1,18 @@
+D:\iRely Training\SQL Training\Projects\VidlyDb\bin\Debug\VidlyDb.dacpac
+D:\iRely Training\SQL Training\Projects\VidlyDb\bin\Debug\VidlyDb.dll
+D:\iRely Training\SQL Training\Projects\VidlyDb\bin\Debug\VidlyDb.pdb
+D:\iRely Training\SQL Training\Projects\VidlyDb\obj\Debug\VidlyDb.dll
+D:\iRely Training\SQL Training\Projects\VidlyDb\obj\Debug\VidlyDb.pdb
+D:\iRely Training\SQL Training\Projects\VidlyDb\obj\Debug\Model.xml
+D:\iRely Training\SQL Training\Projects\VidlyDb\obj\Debug\refactor.xml
+D:\iRely Training\SQL Training\Projects\VidlyDb\obj\Debug\postdeploy.sql
+D:\iRely Training\SQL Training\Projects\VidlyDb\obj\Debug\predeploy.sql
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\VidlyDb\bin\Debug\VidlyDb.dacpac
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\VidlyDb\bin\Debug\VidlyDb.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\VidlyDb\bin\Debug\VidlyDb.pdb
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\VidlyDb\obj\Debug\VidlyDb.dll
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\VidlyDb\obj\Debug\VidlyDb.pdb
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\VidlyDb\obj\Debug\Model.xml
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\VidlyDb\obj\Debug\refactor.xml
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\VidlyDb\obj\Debug\postdeploy.sql
+D:\iRely Training\Javascripts\Projects\VidlyJavascript\VidlyDb\obj\Debug\predeploy.sql
